@@ -1,0 +1,9 @@
+API:
+REST API : A type of API , one of the structural classifications of API
+REST API uses HTTP protocol
+
+Methods:
+GET: Fetch Data From the server.
+Post : send data to the server.
+Patch : Update existing data on the server.
+Delete : Remove data from the server.
