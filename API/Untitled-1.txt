@@ -7,3 +7,12 @@ GET: Fetch Data From the server.
 Post : send data to the server.
 Patch : Update existing data on the server.
 Delete : Remove data from the server.
+
+#Cluster Password:
+username: Shuvronil_0
+password : KMTBcRqNNVdwuryJ
+
+Cluster Connection string:
+
+mongodb+srv://Shuvronil_0:<db_password>@backend-0.u5gnkag.mongodb.net/
+mongodb+srv://Shuvronil_0:KMTBcRqNNVdwuryJ@backend-0.u5gnkag.mongodb.net/
